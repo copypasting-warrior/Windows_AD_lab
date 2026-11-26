@@ -1,4 +1,3 @@
-
 # Windows Active Directory Lab
 
 A hands-on Windows Active Directory lab with the goal of exploring and implementing an Active Directory environment.
@@ -15,34 +14,34 @@ In this project we will be setting up and configuring a Windows Active Directory
 
 ## Documentation
 
-1. [[Setting up the VMs]]
+1. [Setting up the VMs](./Setting%20up%20the%20VMs.md)
    - Downloading Windows evaluation images
    - Creating and configuring virtual machines
 
-2. [[Deployment and initial configuration]]
+2. [Deployment and initial configuration](./Deployment%20and%20initial%20configuration.md)
    - Initial Windows Server configuration
-   - [[Set static IP for DNS]]
+   - [Set static IP for DNS](./Set%20static%20IP%20for%20DNS.md)
    - Configuring DNS
    - Installing Active Directory Domain Services
    - Promoting the server to a domain controller
 
-3. [[Setting Up OUs, Users, and Groups]]
+3. [Setting Up OUs, Users, and Groups](./Setting%20Up%20OUs%2C%20Users%2C%20and%20Groups.md)
    - Creating Organizational Units (OUs)
    - Creating domain users and groups.
    - Creating Group Policy Objects(GPOs)
 
-4. [[Joining a client machine to domain]]
+4. [Joining a client machine to domain](./Joining%20a%20client%20machine%20to%20domain.md)
    - Configuring client DNS settings
    - Joining Windows 11 to `lab.internal`
    - Testing login
 
-5. [[Basic Administration]]
+5. [Basic Administration](./Basic%20Administration.md)
    - Managing domain user accounts
    - Troubleshooting password expiration and authentication
    - Testing network connectivity and remote management
    - Configuring Windows Firewall rules
 
-6.  [[Lab Architecture and Conclusion]]
+6. [Lab Architecture and Conclusion](./Lab%20Architecture%20and%20Conclusion.md)
    - Network topology
    - Configuration summary
    - Lessons learned and future improvements
@@ -61,9 +60,3 @@ In this project we will be setting up and configuring a Windows Active Directory
 - PowerShell-based mass user enrollment
 - Windows LAPS
 - Centralized event logging and auditing
-
-
-
-
-
-
