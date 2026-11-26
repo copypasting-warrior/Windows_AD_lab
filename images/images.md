@@ -1,1 +1,1 @@
-directory for images used
+folder for images used
