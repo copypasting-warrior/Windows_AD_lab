@@ -44,7 +44,7 @@ In this project we will be setting up and configuring a Windows Active Directory
 6. [Lab Architecture and Conclusion](./Lab%20Architecture%20and%20Conclusion.md)
    - Network topology
    - Configuration summary
-   - Lessons learned and future improvements
+   - Lessons learned
 
 ## Project Objectives
 
