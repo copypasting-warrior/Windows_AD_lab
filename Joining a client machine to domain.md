@@ -30,7 +30,7 @@ After the restart on the login page select other users and enter [username]@[dom
 
 To confirm the computer has been added to your domain open Powershell on DC01 and execute the following command:
 ```PowerShell
-Get-ADCompute -Filter *
+Get-ADComputer -Filter *
 
 ```
 
